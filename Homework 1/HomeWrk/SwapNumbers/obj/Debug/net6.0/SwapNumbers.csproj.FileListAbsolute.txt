@@ -1,0 +1,15 @@
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/SwapNumbers/bin/Debug/net6.0/SwapNumbers
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/SwapNumbers/bin/Debug/net6.0/SwapNumbers.deps.json
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/SwapNumbers/bin/Debug/net6.0/SwapNumbers.runtimeconfig.json
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/SwapNumbers/bin/Debug/net6.0/SwapNumbers.dll
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/SwapNumbers/bin/Debug/net6.0/SwapNumbers.pdb
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/SwapNumbers/obj/Debug/net6.0/SwapNumbers.csproj.AssemblyReference.cache
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/SwapNumbers/obj/Debug/net6.0/SwapNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/SwapNumbers/obj/Debug/net6.0/SwapNumbers.AssemblyInfoInputs.cache
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/SwapNumbers/obj/Debug/net6.0/SwapNumbers.AssemblyInfo.cs
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/SwapNumbers/obj/Debug/net6.0/SwapNumbers.csproj.CoreCompileInputs.cache
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/SwapNumbers/obj/Debug/net6.0/SwapNumbers.dll
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/SwapNumbers/obj/Debug/net6.0/refint/SwapNumbers.dll
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/SwapNumbers/obj/Debug/net6.0/SwapNumbers.pdb
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/SwapNumbers/obj/Debug/net6.0/SwapNumbers.genruntimeconfig.cache
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/SwapNumbers/obj/Debug/net6.0/ref/SwapNumbers.dll

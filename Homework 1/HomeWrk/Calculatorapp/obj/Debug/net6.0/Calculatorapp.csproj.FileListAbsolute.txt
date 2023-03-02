@@ -1,0 +1,15 @@
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/Calculatorapp/bin/Debug/net6.0/Calculatorapp
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/Calculatorapp/bin/Debug/net6.0/Calculatorapp.deps.json
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/Calculatorapp/bin/Debug/net6.0/Calculatorapp.runtimeconfig.json
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/Calculatorapp/bin/Debug/net6.0/Calculatorapp.dll
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/Calculatorapp/bin/Debug/net6.0/Calculatorapp.pdb
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/Calculatorapp/obj/Debug/net6.0/Calculatorapp.csproj.AssemblyReference.cache
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/Calculatorapp/obj/Debug/net6.0/Calculatorapp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/Calculatorapp/obj/Debug/net6.0/Calculatorapp.AssemblyInfoInputs.cache
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/Calculatorapp/obj/Debug/net6.0/Calculatorapp.AssemblyInfo.cs
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/Calculatorapp/obj/Debug/net6.0/Calculatorapp.csproj.CoreCompileInputs.cache
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/Calculatorapp/obj/Debug/net6.0/Calculatorapp.dll
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/Calculatorapp/obj/Debug/net6.0/refint/Calculatorapp.dll
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/Calculatorapp/obj/Debug/net6.0/Calculatorapp.pdb
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/Calculatorapp/obj/Debug/net6.0/Calculatorapp.genruntimeconfig.cache
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/Calculatorapp/obj/Debug/net6.0/ref/Calculatorapp.dll

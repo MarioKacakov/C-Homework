@@ -1,0 +1,15 @@
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/AverageNum/bin/Debug/net6.0/AverageNum
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/AverageNum/bin/Debug/net6.0/AverageNum.deps.json
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/AverageNum/bin/Debug/net6.0/AverageNum.runtimeconfig.json
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/AverageNum/bin/Debug/net6.0/AverageNum.dll
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/AverageNum/bin/Debug/net6.0/AverageNum.pdb
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/AverageNum/obj/Debug/net6.0/AverageNum.csproj.AssemblyReference.cache
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/AverageNum/obj/Debug/net6.0/AverageNum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/AverageNum/obj/Debug/net6.0/AverageNum.AssemblyInfoInputs.cache
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/AverageNum/obj/Debug/net6.0/AverageNum.AssemblyInfo.cs
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/AverageNum/obj/Debug/net6.0/AverageNum.csproj.CoreCompileInputs.cache
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/AverageNum/obj/Debug/net6.0/AverageNum.dll
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/AverageNum/obj/Debug/net6.0/refint/AverageNum.dll
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/AverageNum/obj/Debug/net6.0/AverageNum.pdb
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/AverageNum/obj/Debug/net6.0/AverageNum.genruntimeconfig.cache
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/AverageNum/obj/Debug/net6.0/ref/AverageNum.dll
