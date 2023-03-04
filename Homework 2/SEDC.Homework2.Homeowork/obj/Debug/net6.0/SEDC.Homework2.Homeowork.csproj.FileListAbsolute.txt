@@ -1,0 +1,15 @@
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 2/SEDC.Homework2.Homeowork/obj/Debug/net6.0/SEDC.Homework2.Homeowork.csproj.AssemblyReference.cache
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 2/SEDC.Homework2.Homeowork/obj/Debug/net6.0/SEDC.Homework2.Homeowork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 2/SEDC.Homework2.Homeowork/obj/Debug/net6.0/SEDC.Homework2.Homeowork.AssemblyInfoInputs.cache
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 2/SEDC.Homework2.Homeowork/obj/Debug/net6.0/SEDC.Homework2.Homeowork.AssemblyInfo.cs
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 2/SEDC.Homework2.Homeowork/obj/Debug/net6.0/SEDC.Homework2.Homeowork.csproj.CoreCompileInputs.cache
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 2/SEDC.Homework2.Homeowork/bin/Debug/net6.0/SEDC.Homework2.Homeowork
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 2/SEDC.Homework2.Homeowork/bin/Debug/net6.0/SEDC.Homework2.Homeowork.deps.json
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 2/SEDC.Homework2.Homeowork/bin/Debug/net6.0/SEDC.Homework2.Homeowork.runtimeconfig.json
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 2/SEDC.Homework2.Homeowork/bin/Debug/net6.0/SEDC.Homework2.Homeowork.dll
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 2/SEDC.Homework2.Homeowork/bin/Debug/net6.0/SEDC.Homework2.Homeowork.pdb
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 2/SEDC.Homework2.Homeowork/obj/Debug/net6.0/SEDC.Homework2.Homeowork.dll
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 2/SEDC.Homework2.Homeowork/obj/Debug/net6.0/refint/SEDC.Homework2.Homeowork.dll
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 2/SEDC.Homework2.Homeowork/obj/Debug/net6.0/SEDC.Homework2.Homeowork.pdb
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 2/SEDC.Homework2.Homeowork/obj/Debug/net6.0/SEDC.Homework2.Homeowork.genruntimeconfig.cache
+/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 2/SEDC.Homework2.Homeowork/obj/Debug/net6.0/ref/SEDC.Homework2.Homeowork.dll

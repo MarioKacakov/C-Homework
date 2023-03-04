@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/SwapNumbers/SwapNumbers.csproj": {}
+    "/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/HomeWrk/SwapNumbers/SwapNumbers.csproj": {}
   },
   "projects": {
-    "/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/SwapNumbers/SwapNumbers.csproj": {
+    "/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/HomeWrk/SwapNumbers/SwapNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/SwapNumbers/SwapNumbers.csproj",
+        "projectUniqueName": "/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/HomeWrk/SwapNumbers/SwapNumbers.csproj",
         "projectName": "SwapNumbers",
-        "projectPath": "/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/SwapNumbers/SwapNumbers.csproj",
+        "projectPath": "/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/HomeWrk/SwapNumbers/SwapNumbers.csproj",
         "packagesPath": "/Users/mariokachakov/.nuget/packages/",
-        "outputPath": "/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/SwapNumbers/obj/",
+        "outputPath": "/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/HomeWrk/SwapNumbers/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mariokachakov/.nuget/NuGet/NuGet.Config"

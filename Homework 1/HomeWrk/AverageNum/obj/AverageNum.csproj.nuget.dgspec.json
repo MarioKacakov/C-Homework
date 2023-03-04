@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/AverageNum/AverageNum.csproj": {}
+    "/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/HomeWrk/AverageNum/AverageNum.csproj": {}
   },
   "projects": {
-    "/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/AverageNum/AverageNum.csproj": {
+    "/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/HomeWrk/AverageNum/AverageNum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/AverageNum/AverageNum.csproj",
+        "projectUniqueName": "/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/HomeWrk/AverageNum/AverageNum.csproj",
         "projectName": "AverageNum",
-        "projectPath": "/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/AverageNum/AverageNum.csproj",
+        "projectPath": "/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/HomeWrk/AverageNum/AverageNum.csproj",
         "packagesPath": "/Users/mariokachakov/.nuget/packages/",
-        "outputPath": "/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/Calculator/AverageNum/obj/",
+        "outputPath": "/Users/mariokachakov/Desktop/Homeworks/C#/C-Homework/Homework 1/HomeWrk/AverageNum/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mariokachakov/.nuget/NuGet/NuGet.Config"
