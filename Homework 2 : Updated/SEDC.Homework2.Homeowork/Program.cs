@@ -1,9 +1,8 @@
-﻿#region Task 1 / Homework / Exercise 5
+﻿#region Task 1 / Homework 
 
 Console.WriteLine("Press any key to start Task 1");
-Console.ReadKey();
+var test = Console.ReadKey();
 Console.WriteLine();
-
 
 int[] intArray = new int[6];
 
@@ -27,9 +26,25 @@ intArray[3] = num4;
 intArray[4] = num5;
 intArray[5] = num6;
 
-int sum = intArray[0] + intArray[1] + intArray[2] + intArray[3] + intArray[4] + intArray[5];
+if (tryParse1 && tryParse2 && tryParse3 && tryParse4 && tryParse5 && tryParse6 == true)
+{
+    int sum = 0;
 
-Console.WriteLine($"The sum of the array is {sum}");
+    if (num1 % 2 == 0) { sum += num1; }
+    if (num2 % 2 == 0) { sum += num2; }
+    if (num3 % 2 == 0) { sum += num3; }
+    if (num4 % 2 == 0) { sum += num4; }
+    if (num5 % 2 == 0) { sum += num5; }
+    if (num6 % 2 == 0) { sum += num6; }
+
+    Console.WriteLine($"The sum of the even numbers in the array is {sum}");
+
+
+}
+else
+{
+    Console.WriteLine("Invalid input");
+}
 
 #endregion
 
@@ -43,9 +58,7 @@ Console.WriteLine();
 
 Console.Write("Enter a number 1 OR 2 to pick a group of students: ");
 
-//string studentNumber = Console.ReadLine();
 bool studentNumberInput = int.TryParse(Console.ReadLine(), out int studentNumber);
-
 
 string[] studentsG1 = new string[] {"Zdravko", "Petko", "Stanko", "Branko", "Trajko"};
 string[] studentsG2 = new string[] {"Mario", "Dimitar", "Mitko", "Angel", "Zodran" };
@@ -89,12 +102,14 @@ Console.WriteLine("Press any key to start Exercise 6");
 Console.ReadKey();
 Console.WriteLine();
 
-
-string[] namesArray = new string[100]; 
-int count = 0; 
+string[] namesArray = new string[] { }; 
+int count = 0;
+int arrayCount = 0;
 
 while (true)
 {
+    arrayCount++;
+    Array.Resize(ref namesArray, arrayCount);
     Console.Write("Enter a name: ");
     string firstName = Console.ReadLine();
     namesArray[count] = firstName;
@@ -110,9 +125,47 @@ while (true)
 }
 
 Console.WriteLine("\nAll names entered:");
+
 for (int i = 0; i < count; i++) 
 {
     Console.WriteLine(namesArray[i]);
 }
+
+#endregion
+
+#region Exercise 5
+
+Console.WriteLine();
+Console.WriteLine("Press any key to start Exercise 5");
+Console.ReadKey();
+Console.WriteLine();
+
+int[] numArray = new int[5];
+
+Console.Write("Enter you first number now: ");
+bool tryParse7 = int.TryParse(Console.ReadLine(), out int num7);
+Console.Write("Enter you second number now: ");
+bool tryParse8 = int.TryParse(Console.ReadLine(), out int num8);
+Console.Write("Enter you third number now: ");
+bool tryParse9 = int.TryParse(Console.ReadLine(), out int num9);
+Console.Write("Enter you fourth number now: ");
+bool tryParse10 = int.TryParse(Console.ReadLine(), out int num10);
+Console.Write("Enter you fifth number now: ");
+bool tryParse11 = int.TryParse(Console.ReadLine(), out int num11);
+
+numArray[0] = num7;
+numArray[1] = num8;
+numArray[2] = num9;
+numArray[3] = num10;
+numArray[4] = num11;
+
+if (tryParse7 && tryParse8 && tryParse9 && tryParse10 && tryParse11 == true)
+{
+    int sum = num7 + num8 + num9 + num10 + num11;
+
+    Console.WriteLine($"The sum of the even numbers in the array is {sum}");
+
+}
+else { Console.WriteLine("Invalid input"); }
 
 #endregion
