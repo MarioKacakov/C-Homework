@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{57B180EC-3E40-40FA-BDD3-51E56EF08CBB}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SEDC.Homework03.Dog/Program.cs">
+    <Files>
+      <File FileName="SEDC.Homework03.Dog/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SEDC.Homework03." expanded="True">
+            <Node name="SEDC.Homework03.Dog" expanded="True" />
+            <Node name="SEDC.Homework03.Human" expanded="True" />
+            <Node name="SEDC.Homework03.Student" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SEDC.Homework03.Student PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.SEDC.Homework03.Human PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.SEDC.Homework03.Dog PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
